@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Volunteering Ideas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Student Volunteering Ideas</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="ideas.html">Volunteering Ideas</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Get Involved in Your Community</h2>
+            <p>Find great ideas and opportunities to volunteer and make a difference.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Student Volunteering Ideas</p>
+    </footer>
+</body>
+</html>
